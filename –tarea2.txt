@@ -1,0 +1,5 @@
+git add
+El comando git add añade un cambio del directorio de trabajo en el entorno de ensayo. De este modo, indica a Git que quieres incluir actualizaciones en un archivo concreto en la próxima confirmación. Sin embargo, git add no afecta al repositorio de manera significativa: en realidad, los cambios no se registran hasta que ejecutas git commit.
+
+git add -A
+Comando para añadir TODOO lo que esta pendiente sin espesificar que archivo
